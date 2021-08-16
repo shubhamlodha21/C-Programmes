@@ -2,7 +2,7 @@
 //Function Name:Addition
 //Input:3 (11 22 33)
 //Output:66
-//Description:Accept N numbers from user and perforn the addition of that N numbers
+//Description:Accept N numbers from user and perforn the addition of that N numbers.
 //Date: 05/06/2021
 //Author: Shubham Lodha
 ///////////////////////////////////////////////////////
