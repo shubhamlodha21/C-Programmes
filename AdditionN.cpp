@@ -64,7 +64,7 @@ int Array::Addition()
     {
         iSum = iSum + Arr[i];
     }
-    return iSum;
+    return iSum;//Return Sum
 }
 
 int main()
