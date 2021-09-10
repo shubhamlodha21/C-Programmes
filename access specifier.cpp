@@ -5,7 +5,7 @@ value of A in base clase 10
 value of B in base class 20
 *Description:Implementation of access specifier
 *Date:10-09-2021
-*Author: Shruti Nahar */
+*Author: Shubham Lodha */
 /////////////////////////////////////////
 #include<iostream>
 using namespace std;
