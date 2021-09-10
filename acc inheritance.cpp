@@ -15,7 +15,7 @@ Interest: 6
   Deposite amount in saving Account 2078
 *Description:Real time banking application using inheritance
 *Date:10-09-2021
-*Author: Shruti Nahar */
+*Author: Shubham Lodha */
 /////////////////////////////////////////
 #include<iostream>
 #include<string.h>
