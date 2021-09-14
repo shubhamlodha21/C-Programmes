@@ -1,35 +1,36 @@
-////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
 //Function Name:Swapping
-//Input : 10   20 
-//Output : 20   10
-//Description:Swapping of two numbers 
-//Date: 15/08/2021
+//Input:5 15
+//Output:15  5
+//Description:Swapping of two numbers without using third operator
+//Date: 14/09/2021
 //Author: Shubham Lodha
 ///////////////////////////////////////////////////////
 
 #include<iostream>
-using namespace  std;
+using namespace std;
 
-void Swapping(int ino1,int ino2)
+void Swapping(int x,int y)
 {
-    ino1=ino1+ino2;
-    ino2=ino1-ino2;
-    ino1=ino1-ino2;
+    x=x+y;
+    y=x-y;
+    x=x-y;
 
-    cout<<ino1<<"\n"<<ino2<<"\n";
+    cout<<"After Swapping:"<<"\n";
+    cout<<"value of First Number is:"<<x<<"\n";
+    cout<<"value of Second Number is"<<y<<"\n";
+
 }
 
 int main()
 {
-    int ino1=0,ino2=0;
-
-    cout<<"Enter First Number:";
-    cin>>ino1;
+    int x=0,y=0;
+    cout<<"Enter First Number";
+    cin>>x;
 
     cout<<"Enter Second Number";
-    cin>>ino2;
+    cin>>y;
 
-    cout<<"Numbers after Swapping";
-    Swapping(ino1,ino2);
+    Swapping(x,y);
     return 0;
 }
