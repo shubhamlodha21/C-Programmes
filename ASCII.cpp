@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////
 //Function Name:ASCII
 //Input : --
-//Output : --
+//Output : ---
 //Description:Display ASCII value from 1 to 127
 //Date: 15/08/2021
 //Author: Shubham Lodha
